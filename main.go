@@ -1,5 +1,3 @@
-// create a weather api in go using gin web framework which takes city input and shows the weather for the city
-
 package main
 
 import (
